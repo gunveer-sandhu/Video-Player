@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="btnVideos">Videos</string>
+    <string name="tvTitle">Title</string>
+    <string name="tvDesc">Description</string>
+    <string name="btnSeekBack">Back</string>
+    <string name="btnSeekForward">Forward</string>
+    <string name="btnPause">Pause</string>
+    <string name="btnPlay">Play</string>
+</resources>
